@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 439,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "time": 585,
+    "timeDay": 507,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/178.128.124.119.ico",
     "slug": "wa",
     "status": "up",
-    "uptime": "81.68%",
+    "uptime": "83.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.68%",
-    "uptimeMonth": "81.68%",
-    "uptimeYear": "81.68%",
+    "uptimeWeek": "83.12%",
+    "uptimeMonth": "83.12%",
+    "uptimeYear": "83.12%",
     "time": 403,
-    "timeDay": 344,
+    "timeDay": 375,
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2023-02-08": 553,
       "2023-02-07": 112
+    }
+  },
+  {
+    "name": "Example Down",
+    "url": "https://example.koj.co/",
+    "icon": "https://icons.duckduckgo.com/ip3/example.koj.co.ico",
+    "slug": "example-down",
+    "status": "down",
+    "uptime": "21.21%",
+    "uptimeDay": "21.21%",
+    "uptimeWeek": "21.21%",
+    "uptimeMonth": "21.21%",
+    "uptimeYear": "21.21%",
+    "time": 86,
+    "timeDay": 86,
+    "timeWeek": 86,
+    "timeMonth": 86,
+    "timeYear": 86,
+    "dailyMinutesDown": {
+      "2023-02-10": 0
     }
   }
 ]
