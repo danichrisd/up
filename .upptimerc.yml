@@ -7,9 +7,9 @@ sites:
     url: https://www.ramasakti.com
   - name: WA
     url: http://178.128.124.119:1680/
-  - name: Example Down
+  - name: Example Down 1
     url: https://example.koj.co/
-  - name: Example Down
+  - name: Example Down 2
     url: https://thissitedoesnotexist.koj.co/
  
 
