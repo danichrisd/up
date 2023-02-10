@@ -9,8 +9,8 @@ sites:
     url: http://178.128.124.119:1680/
   - name: Example Down 1
     url: https://example.koj.co/
-  - name: Example Down 2
-    url: https://thissitedoesnotexist.koj.co/
+  - name: LABEL
+    url: https://systemalpha.net/label
  
 
 status-website:
