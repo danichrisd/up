@@ -4,9 +4,9 @@
     "url": "https://www.ramasakti.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ramasakti.com.ico",
     "slug": "rama-sakti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 607,
     "timeMonth": 607,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-11": 0
+    }
   },
   {
     "name": "WA",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/178.128.124.119.ico",
     "slug": "wa",
     "status": "up",
-    "uptime": "86.84%",
+    "uptime": "87.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.84%",
-    "uptimeMonth": "86.84%",
-    "uptimeYear": "86.84%",
+    "uptimeWeek": "87.22%",
+    "uptimeMonth": "87.22%",
+    "uptimeYear": "87.22%",
     "time": 417,
     "timeDay": 435,
     "timeWeek": 417,
@@ -55,7 +57,7 @@
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-02-11": 81,
+      "2023-02-11": 231,
       "2023-02-10": 928
     }
   },
@@ -65,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/systemalpha.net.ico",
     "slug": "label",
     "status": "down",
-    "uptime": "14.82%",
-    "uptimeDay": "14.82%",
-    "uptimeWeek": "14.82%",
-    "uptimeMonth": "14.82%",
-    "uptimeYear": "14.82%",
+    "uptime": "12.88%",
+    "uptimeDay": "12.88%",
+    "uptimeWeek": "12.88%",
+    "uptimeMonth": "12.88%",
+    "uptimeYear": "12.88%",
     "time": 987,
     "timeDay": 987,
     "timeWeek": 987,
     "timeMonth": 987,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2023-02-11": 81,
+      "2023-02-11": 231,
       "2023-02-10": 766
     }
   }
