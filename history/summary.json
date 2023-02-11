@@ -4,19 +4,19 @@
     "url": "https://www.ramasakti.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ramasakti.com.ico",
     "slug": "rama-sakti",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 630,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 602,
+    "timeDay": 618,
+    "timeWeek": 602,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-02-11": 0
+      "2023-02-11": 41
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/178.128.124.119.ico",
     "slug": "wa",
     "status": "up",
-    "uptime": "87.22%",
+    "uptime": "87.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.22%",
-    "uptimeMonth": "87.22%",
-    "uptimeYear": "87.22%",
+    "uptimeWeek": "87.32%",
+    "uptimeMonth": "87.32%",
+    "uptimeYear": "87.32%",
     "time": 417,
     "timeDay": 435,
     "timeWeek": 417,
@@ -57,7 +57,7 @@
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-02-11": 231,
+      "2023-02-11": 272,
       "2023-02-10": 928
     }
   },
@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/systemalpha.net.ico",
     "slug": "label",
     "status": "down",
-    "uptime": "12.88%",
-    "uptimeDay": "12.88%",
-    "uptimeWeek": "12.88%",
-    "uptimeMonth": "12.88%",
-    "uptimeYear": "12.88%",
+    "uptime": "12.43%",
+    "uptimeDay": "12.43%",
+    "uptimeWeek": "12.43%",
+    "uptimeMonth": "12.43%",
+    "uptimeYear": "12.43%",
     "time": 987,
     "timeDay": 987,
     "timeWeek": 987,
     "timeMonth": 987,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2023-02-11": 231,
+      "2023-02-11": 272,
       "2023-02-10": 766
     }
   }
