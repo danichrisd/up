@@ -7,10 +7,12 @@ sites:
     url: https://www.ramasakti.com
   - name: WA
     url: http://178.128.124.119:1680/
-  - name: Example Down 1
-    url: https://example.koj.co/
+  - name: Ramen Katsu
+    url: https://systemalpha.net/ramenkatsu
   - name: LABEL
     url: https://systemalpha.net/label
+  - name: Rama-Backend
+    url: https://systemalpha.net/ramasakti
  
 
 status-website:
@@ -19,14 +21,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  name: systemAlphaMonitor
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #navbar:
+    #- title: Status
+     # href: /
+    #- title: GitHub
+     # href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
