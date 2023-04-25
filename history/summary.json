@@ -94,19 +94,19 @@
     "url": "https://systemalpha.net/ramasakti",
     "icon": "https://icons.duckduckgo.com/ip3/systemalpha.net.ico",
     "slug": "rama-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 576,
-    "timeWeek": 784,
-    "timeMonth": 841,
-    "timeYear": 867,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1082,
+    "timeDay": 8133,
+    "timeWeek": 2648,
+    "timeMonth": 1278,
+    "timeYear": 1082,
     "dailyMinutesDown": {
-      "2023-04-25": 0
+      "2023-04-25": 12
     }
   }
 ]
