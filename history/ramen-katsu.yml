@@ -1,7 +1,7 @@
 url: https://systemalpha.net/ramenkatsu
-status: up
-code: 200
-responseTime: 1120
-lastUpdated: 2023-05-22T23:18:07.704Z
+status: down
+code: 401
+responseTime: 842
+lastUpdated: 2023-05-23T19:37:33.096Z
 startTime: Sat Feb 18 2023 02:03:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
