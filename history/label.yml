@@ -1,7 +1,7 @@
 url: https://systemalpha.net/label
-status: up
-code: 200
-responseTime: 589
-lastUpdated: 2023-08-08T23:17:02.000Z
+status: down
+code: 502
+responseTime: 10045
+lastUpdated: 2023-08-09T08:25:06.911Z
 startTime: Fri Feb 10 2023 08:47:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
