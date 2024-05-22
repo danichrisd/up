@@ -6,14 +6,14 @@
     "slug": "rama-sakti",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.21%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.62%",
-    "time": 734,
-    "timeDay": 574,
-    "timeWeek": 600,
-    "timeMonth": 583,
+    "time": 733,
+    "timeDay": 665,
+    "timeWeek": 611,
+    "timeMonth": 588,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2024-05-20": 26,
@@ -29,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/103.150.92.1.ico",
     "slug": "wa",
     "status": "down",
-    "uptime": "50.66%",
+    "uptime": "50.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.06%",
+    "uptimeYear": "37.79%",
     "time": 515,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2024-05-21": 20,
+      "2024-05-22": 19,
+      "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
@@ -283,11 +284,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 2522,
-    "timeDay": 2819,
-    "timeWeek": 5145,
-    "timeMonth": 3657,
-    "timeYear": 2752,
+    "time": 2521,
+    "timeDay": 2009,
+    "timeWeek": 5053,
+    "timeMonth": 3443,
+    "timeYear": 2753,
     "dailyMinutesDown": {
       "2024-02-12": 19,
       "2024-02-11": 55,
@@ -317,8 +318,7 @@
       "2023-06-01": 38,
       "2023-05-30": 23,
       "2023-05-27": 61,
-      "2023-05-24": 276,
-      "2023-05-23": 262
+      "2023-05-24": 276
     }
   },
   {
@@ -333,10 +333,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 1748,
-    "timeDay": 2455,
-    "timeWeek": 2735,
-    "timeMonth": 2754,
-    "timeYear": 1982,
+    "timeDay": 1794,
+    "timeWeek": 2605,
+    "timeMonth": 2750,
+    "timeYear": 1985,
     "dailyMinutesDown": {
       "2024-02-12": 19,
       "2024-02-11": 55,
@@ -360,8 +360,7 @@
       "2023-06-01": 38,
       "2023-05-30": 23,
       "2023-05-27": 30,
-      "2023-05-24": 276,
-      "2023-05-23": 1202
+      "2023-05-24": 276
     }
   },
   {
@@ -376,10 +375,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 1428,
-    "timeDay": 1886,
-    "timeWeek": 1935,
-    "timeMonth": 1597,
-    "timeYear": 1514,
+    "timeDay": 1219,
+    "timeWeek": 1819,
+    "timeMonth": 1596,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2024-02-11": 71,
       "2024-02-06": 17,
@@ -403,8 +402,7 @@
       "2023-06-01": 38,
       "2023-05-30": 23,
       "2023-05-27": 30,
-      "2023-05-24": 276,
-      "2023-05-23": 262
+      "2023-05-24": 276
     }
   }
 ]
