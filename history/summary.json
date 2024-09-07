@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 739,
-    "timeDay": 554,
-    "timeWeek": 1021,
-    "timeMonth": 698,
+    "time": 740,
+    "timeDay": 649,
+    "timeWeek": 1022,
+    "timeMonth": 703,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2024-05-20": 26,
@@ -29,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/103.150.92.1.ico",
     "slug": "wa",
     "status": "down",
-    "uptime": "41.17%",
+    "uptime": "41.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.56%",
+    "uptimeYear": "8.29%",
     "time": 538,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2024-09-06": 22,
+      "2024-09-07": 21,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -388,18 +389,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2736,
-    "timeDay": 2724,
-    "timeWeek": 2260,
-    "timeMonth": 2844,
-    "timeYear": 3010,
+    "time": 2735,
+    "timeDay": 2544,
+    "timeWeek": 2273,
+    "timeMonth": 2842,
+    "timeYear": 2949,
     "dailyMinutesDown": {
       "2024-06-09": 18,
       "2024-02-12": 19,
       "2024-02-11": 55,
       "2023-12-07": 22,
-      "2023-12-04": 19,
-      "2023-09-08": 51
+      "2023-12-04": 19
     }
   },
   {
@@ -413,18 +413,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2131,
-    "timeDay": 2387,
-    "timeWeek": 2007,
-    "timeMonth": 2451,
-    "timeYear": 2267,
+    "time": 2134,
+    "timeDay": 2251,
+    "timeWeek": 2004,
+    "timeMonth": 2448,
+    "timeYear": 2256,
     "dailyMinutesDown": {
       "2024-06-09": 18,
       "2024-02-12": 19,
       "2024-02-11": 55,
       "2024-02-06": 17,
-      "2023-12-04": 19,
-      "2023-09-08": 49
+      "2023-12-04": 19
     }
   },
   {
@@ -438,18 +437,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1675,
-    "timeDay": 1839,
-    "timeWeek": 1499,
+    "time": 1677,
+    "timeDay": 1844,
+    "timeWeek": 1514,
     "timeMonth": 2330,
-    "timeYear": 1742,
+    "timeYear": 1717,
     "dailyMinutesDown": {
       "2024-06-09": 18,
       "2024-02-11": 71,
       "2024-02-06": 17,
       "2023-12-08": 18,
-      "2023-12-04": 19,
-      "2023-09-08": 25
+      "2023-12-04": 19
     }
   }
 ]
