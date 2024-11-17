@@ -11,17 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 716,
-    "timeDay": 653,
-    "timeWeek": 615,
-    "timeMonth": 602,
-    "timeYear": 767,
+    "timeDay": 610,
+    "timeWeek": 616,
+    "timeMonth": 606,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2024-09-26": 97,
       "2024-05-20": 26,
       "2024-03-04": 21,
       "2023-11-20": 1133,
-      "2023-11-19": 407,
-      "2023-11-18": 408
+      "2023-11-19": 407
     }
   },
   {
@@ -30,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/103.150.92.1.ico",
     "slug": "wa",
     "status": "down",
-    "uptime": "36.65%",
+    "uptime": "36.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 557,
+    "time": 556,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 25,
+      "2024-11-17": 27,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -404,8 +404,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -419,10 +418,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 2842,
-    "timeDay": 1921,
-    "timeWeek": 2747,
-    "timeMonth": 2222,
+    "time": 2844,
+    "timeDay": 2033,
+    "timeWeek": 2750,
+    "timeMonth": 2230,
     "timeYear": 2774,
     "dailyMinutesDown": {
       "2024-10-31": 17,
@@ -446,9 +445,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 2191,
-    "timeDay": 1635,
-    "timeWeek": 2462,
-    "timeMonth": 1945,
+    "timeDay": 1681,
+    "timeWeek": 2464,
+    "timeMonth": 1948,
     "timeYear": 2249,
     "dailyMinutesDown": {
       "2024-10-31": 17,
@@ -471,10 +470,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 1691,
-    "timeDay": 1222,
-    "timeWeek": 2169,
-    "timeMonth": 1587,
+    "time": 1690,
+    "timeDay": 1223,
+    "timeWeek": 2166,
+    "timeMonth": 1591,
     "timeYear": 1725,
     "dailyMinutesDown": {
       "2024-10-31": 17,
