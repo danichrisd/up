@@ -1,7 +1,7 @@
 url: https://systemalpha.net/ramasakti
-status: up
-code: 200
-responseTime: 1876
-lastUpdated: 2025-03-27T12:08:06.161Z
+status: down
+code: 504
+responseTime: 13200
+lastUpdated: 2025-03-27T13:03:28.313Z
 startTime: 2023-02-18T02:03:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
