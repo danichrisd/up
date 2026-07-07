@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ramasakti.com.ico",
     "slug": "rama-sakti",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 890,
-    "timeDay": 484,
-    "timeWeek": 542,
+    "timeDay": 664,
+    "timeWeek": 552,
     "timeMonth": 579,
     "timeYear": 898,
     "dailyMinutesDown": {
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/103.150.92.1.ico",
     "slug": "wa",
     "status": "down",
-    "uptime": "19.07%",
+    "uptime": "19.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-06": 234,
+      "2026-07-07": 225,
+      "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -401,8 +402,7 @@
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
-      "2025-07-08": 1440,
-      "2025-07-07": 1440
+      "2025-07-08": 1440
     }
   },
   {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/systemalpha.net.ico",
     "slug": "ramen-katsu",
     "status": "down",
-    "uptime": "69.58%",
+    "uptime": "69.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1606,
-    "timeDay": 244,
-    "timeWeek": 711,
-    "timeMonth": 776,
+    "time": 1599,
+    "timeDay": 971,
+    "timeWeek": 714,
+    "timeMonth": 780,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2026-07-06": 234,
+      "2026-07-07": 225,
+      "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -785,8 +786,7 @@
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
-      "2025-07-08": 1440,
-      "2025-07-07": 1440
+      "2025-07-08": 1440
     }
   },
   {
@@ -795,18 +795,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/systemalpha.net.ico",
     "slug": "label",
     "status": "down",
-    "uptime": "69.39%",
+    "uptime": "69.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1349,
-    "timeDay": 848,
-    "timeWeek": 870,
-    "timeMonth": 692,
-    "timeYear": 696,
+    "time": 1351,
+    "timeDay": 279,
+    "timeWeek": 766,
+    "timeMonth": 671,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2026-07-06": 234,
+      "2026-07-07": 225,
+      "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -1169,8 +1170,7 @@
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
-      "2025-07-08": 1440,
-      "2025-07-07": 1440
+      "2025-07-08": 1440
     }
   },
   {
@@ -1179,18 +1179,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/systemalpha.net.ico",
     "slug": "rama-backend",
     "status": "down",
-    "uptime": "69.32%",
+    "uptime": "69.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1225,
-    "timeDay": 832,
-    "timeWeek": 619,
-    "timeMonth": 721,
-    "timeYear": 733,
+    "time": 1224,
+    "timeDay": 970,
+    "timeWeek": 617,
+    "timeMonth": 723,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2026-07-06": 234,
+      "2026-07-07": 225,
+      "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -1553,8 +1554,7 @@
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
-      "2025-07-08": 1440,
-      "2025-07-07": 1440
+      "2025-07-08": 1440
     }
   }
 ]
